@@ -5,7 +5,7 @@ import { getAuth } from "firebase/auth";
 
 
 const firebaseConfig = {
-  apiKey: process.env.APIKEY,
+  apiKey: "AIzaSyDuqbdq5XCdaUgfDL451D0gGuXdsA5_Abk",
   authDomain: "otp-project-e8d41.firebaseapp.com",
   projectId: "otp-project-e8d41",
   storageBucket: "otp-project-e8d41.appspot.com",
