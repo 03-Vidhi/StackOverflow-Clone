@@ -1,0 +1,29 @@
+.content{
+    /* display: flex;
+    flex-direction: column; */
+    gap: 4;
+    margin: auto;
+    padding: 30px;
+    padding-left: 30rem;
+    
+}
+.button{
+    padding-left: 3rem;
+    text-align: center;
+    width: 80px;
+}
+.code{
+    background-color: green;
+    padding-top: 2px;
+    margin-top: 10px;
+    height: 30px;
+    color: white;
+
+}
+.text{
+    font: bold;
+    text-align: center;
+    font-size: large;
+    width: 80px;
+   
+}
